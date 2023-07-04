@@ -1,0 +1,1 @@
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and developed using instructions from [React Documentation](https://react.dev/learn/tutorial-tic-tac-toe#setup-for-the-tutorial).
